@@ -1,6 +1,6 @@
 ---
 title: Density
-weight: 1
+weight: 0
 excerpt: lorem-ipsum
 seo:
   title: cities.academy
