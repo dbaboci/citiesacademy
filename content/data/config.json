@@ -70,5 +70,6 @@
             }
         ]
     },
-    "domain": "https://cities.academy"
+    "domain": "https://cities.academy",
+    "favicon": "/images/academy-06.png"
 }
