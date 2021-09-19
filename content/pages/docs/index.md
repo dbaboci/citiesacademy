@@ -22,16 +22,3 @@ seo:
 layout: docs
 weight: 0
 ---
-*   Test
-
-*   Tesgt
-
-    *   sdsds
-
-*   adasda
-
-*   adadad
-
-    *   sdada
-
-    *   adada
