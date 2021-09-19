@@ -16,7 +16,7 @@
                 "subnav_links": [
                     {
                         "label": "Mobility",
-                        "url": "#",
+                        "url": "/docs/mobility",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
