@@ -21,12 +21,6 @@
                 "has_subnav": true
             },
             {
-                "label": "Contribute",
-                "url": "https://github.com/dbaboci/citiesacademy/",
-                "style": "primary",
-                "has_subnav": false
-            },
-            {
                 "label": "About",
                 "url": "/about",
                 "style": "link",
@@ -45,6 +39,12 @@
                 "no_follow": false,
                 "has_subnav": false,
                 "subnav_links": []
+            },
+            {
+                "label": "Contribute",
+                "url": "https://github.com/dbaboci/citiesacademy/",
+                "style": "primary",
+                "has_subnav": false
             }
         ]
     },
