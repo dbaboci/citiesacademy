@@ -5,9 +5,7 @@ sections:
     type: section_hero
     title: cities.academy
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "Welcome to cities.academy! This space is organized as a living document subject to ongoing\_[collaborative iteration](https://github.com/dbaboci/cities.academy). It provides a series of themes, topics and readings on cities. The goal is to create a shared entry point to the world of city planning and urbanism. It serves as a general introduction to the field through the lenses of complex adaptive systems.\n"
     actions:
       - label: Get Started
         url: /docs
