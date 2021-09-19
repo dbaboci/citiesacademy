@@ -1,6 +1,6 @@
 ---
 title: Community
-subtitle: lorem-ipsum
+subtitle: 'Learn more '
 seo:
   title: ''
   description: ''
