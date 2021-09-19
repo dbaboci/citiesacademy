@@ -47,7 +47,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: 'Sign up to '
+    title: Intere
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Subscribe
