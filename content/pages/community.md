@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: community
 subtitle: lorem-ipsum
 seo:
   title: ''
