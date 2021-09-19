@@ -20,6 +20,7 @@ seo:
     - name: 'twitter:description'
       value: This is the documentation page
 layout: docs
+weight: 1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
