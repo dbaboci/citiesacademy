@@ -48,7 +48,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Intersted in a curated cohort-based cities course?
-    subtitle: 'Subscrive '
+    subtitle: 'Subscribe to receive '
     actions:
       - label: Subscribe
         url: 'https://forms.gle/Jwsgfz19AsDcgsMW7'
