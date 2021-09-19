@@ -1,7 +1,7 @@
 ---
 title: Economy
 weight: 2
-excerpt: lorem-ipsum
+excerpt: eCONOMY
 seo:
   title: ''
   description: ''
