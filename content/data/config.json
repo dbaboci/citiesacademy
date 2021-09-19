@@ -12,7 +12,7 @@
                 "label": "Syllabus",
                 "url": "/docs",
                 "style": "link",
-                "has_subnav": true,
+                "has_subnav": false,
                 "subnav_links": []
             },
             {
