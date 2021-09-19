@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Welcome to cities.academy
 seo:
   title: Welcome to Libris
   description: This is the documentation page
