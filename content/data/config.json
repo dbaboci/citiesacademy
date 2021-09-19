@@ -13,16 +13,7 @@
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Mobility",
-                        "url": "/docs/mobility",
-                        "style": "link",
-                        "icon_class": "dev",
-                        "new_window": false,
-                        "no_follow": false
-                    }
-                ]
+                "subnav_links": []
             },
             {
                 "label": "Community",
