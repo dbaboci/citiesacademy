@@ -21,8 +21,8 @@
                 "has_subnav": true
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Community",
+                "url": "#",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
@@ -31,8 +31,8 @@
                 "subnav_links": []
             },
             {
-                "label": "Community",
-                "url": "#",
+                "label": "About",
+                "url": "/about",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
