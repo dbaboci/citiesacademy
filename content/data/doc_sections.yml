@@ -2,8 +2,3 @@ root_docs_path: /syllabus
 sections:
   - mobility
   - density
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
