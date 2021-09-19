@@ -21,7 +21,6 @@ seo:
       value: This is the documentation page
 layout: docs
 weight: 0
-excerpt: Test Tesgt sdsds  adasda adadad sdada adada
 ---
 *   Test
 
