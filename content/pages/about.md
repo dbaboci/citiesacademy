@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: lorem-ipsum
+subtitle: Who we are and how to contribute
 seo:
   title: ''
   description: ''
