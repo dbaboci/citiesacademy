@@ -16,7 +16,7 @@
             },
             {
                 "label": "Community",
-                "url": "#",
+                "url": "/community",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
