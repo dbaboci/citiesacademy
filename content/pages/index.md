@@ -11,22 +11,6 @@ sections:
         url: >-
           https://github.com/dbaboci/citiesacademy/tree/master/content/pages/docs
         style: primary
-  - section_id: text-img
-    type: section_content
-    image: images/jamstack.svg
-    image_position: left
-    title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
