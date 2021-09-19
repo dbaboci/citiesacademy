@@ -1,6 +1,6 @@
 ---
 title: Economy
-weight: 0
+weight: 2
 excerpt: lorem-ipsum
 seo:
   title: ''
