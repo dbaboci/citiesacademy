@@ -15,7 +15,7 @@
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Mobility",
                         "url": "#",
                         "style": "link",
                         "icon_class": "dev",
