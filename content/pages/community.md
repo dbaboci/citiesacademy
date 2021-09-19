@@ -1,6 +1,6 @@
 ---
 title: Community
-subtitle: 'Join a crowd of like-minded city '
+subtitle: Join our discord
 seo:
   title: ''
   description: ''
