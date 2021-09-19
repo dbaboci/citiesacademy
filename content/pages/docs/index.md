@@ -1,7 +1,7 @@
 ---
 title: Docs
 seo:
-  title: Welcome to Libris
+  title: cities.academy
   description: This is the documentation page
   extra:
     - name: 'og:type'
