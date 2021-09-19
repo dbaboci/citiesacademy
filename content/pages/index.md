@@ -47,7 +47,7 @@ sections:
             style: link
   - section_id: cta
     type: section_cta
-    title: Intersted in a curated cohort-based course?
+    title: Intersted in a curated cohort-based cities course?
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Subscribe
