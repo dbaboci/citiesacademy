@@ -12,7 +12,17 @@
                 "label": "Syllabus",
                 "url": "/docs",
                 "style": "link",
-                "has_subnav": true
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "lorem-ipsum",
+                        "url": "#",
+                        "style": "link",
+                        "icon_class": "dev",
+                        "new_window": false,
+                        "no_follow": false
+                    }
+                ]
             },
             {
                 "label": "Community",
