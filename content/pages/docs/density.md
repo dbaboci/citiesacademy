@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Density
 weight: 0
 excerpt: lorem-ipsum
 seo:
