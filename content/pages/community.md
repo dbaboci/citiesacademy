@@ -1,6 +1,6 @@
 ---
 title: Community
-subtitle: 'Learn more '
+subtitle: 'Join a crowd of like-minded city '
 seo:
   title: ''
   description: ''
