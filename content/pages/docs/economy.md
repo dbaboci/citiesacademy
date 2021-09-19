@@ -1,7 +1,7 @@
 ---
 title: Economy
 weight: 2
-excerpt: eCONOMY
+excerpt: Economy
 seo:
   title: ''
   description: ''
