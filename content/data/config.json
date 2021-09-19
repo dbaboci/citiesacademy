@@ -40,7 +40,7 @@
             },
             {
                 "label": "Contribute",
-                "url": "/style-guide",
+                "url": "https://github.com/dbaboci/citiesacademy/",
                 "style": "link",
                 "has_subnav": false,
                 "icon_class": "github"
