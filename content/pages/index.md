@@ -50,7 +50,7 @@ sections:
     title: The Title of The Call to Action Block
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Sign Up
+      - label: Subscribe
         url: 'https://forms.gle/Jwsgfz19AsDcgsMW7'
         style: secondary
 seo:
