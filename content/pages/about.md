@@ -1,6 +1,5 @@
 ---
 title: About
-subtitle: Who we are and how to contribute
 seo:
   title: ''
   description: ''
