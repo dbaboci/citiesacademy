@@ -56,7 +56,7 @@ sections:
           recommendation, three riveting articles and the five most striking
           tweets I encountered during the week.
         actions:
-          - label: Learn More
+          - label: Subscribe
             url: /showcase
             style: link
 seo:
