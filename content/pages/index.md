@@ -10,16 +10,6 @@ sections:
       - label: Start Reading
         url: /docs
         style: primary
-  - section_id: cta
-    type: section_cta
-    title: Intersted in a curated cohort-based cities course?
-    subtitle: >-
-      Subscribe to receive major site updates and other city content
-      notifications.
-    actions:
-      - label: Subscribe
-        url: 'https://forms.gle/Jwsgfz19AsDcgsMW7'
-        style: secondary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
@@ -31,6 +21,16 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
+  - section_id: cta
+    type: section_cta
+    title: Intersted in a curated cohort-based cities course?
+    subtitle: >-
+      Subscribe to receive major site updates and other city content
+      notifications.
+    actions:
+      - label: Subscribe
+        url: 'https://forms.gle/Jwsgfz19AsDcgsMW7'
+        style: secondary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
