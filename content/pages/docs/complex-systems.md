@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Complex Systems
 weight: 0
 excerpt: lorem-ipsum
 seo:
