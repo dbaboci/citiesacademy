@@ -53,7 +53,7 @@ sections:
             url: 'https://thinkthinkthink.substack.com/subscribe'
             style: link
 seo:
-  title: Stackbit Libris Theme
+  title: cities.academy
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
