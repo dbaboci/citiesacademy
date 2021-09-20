@@ -30,7 +30,7 @@ sections:
     actions:
       - label: Subscribe
         url: 'https://forms.gle/Jwsgfz19AsDcgsMW7'
-        style: primary
+        style: icon
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
