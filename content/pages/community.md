@@ -1,6 +1,5 @@
 ---
 title: Community
-subtitle: Join our discord
 seo:
   title: ''
   description: ''
