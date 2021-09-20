@@ -38,10 +38,11 @@ sections:
     col_number: two
     grid_items:
       - title: getlayer.xyz
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >
+          [Layer](https://getlayer.xyz) is an urban orchestration platform that
+          enables you to plan, design and manage better urban environments. We
+          aspire to be the software infrastructure that will run the cities of
+          tomorrow.
         actions:
           - label: Learn More
             url: /overview
