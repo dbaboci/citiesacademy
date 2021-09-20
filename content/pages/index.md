@@ -47,10 +47,14 @@ sections:
             url: /overview
             style: link
       - title: thinkthinkthink
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          [thinkthinkthink](https://thinkthinkthink.substack.com/) is my broad
+          newsletter on cities, science and complex systems. Consider this a
+          personal attempt to clarify my thinking on key urban issues. It might
+          sometimes read as a diary - but I hope it will always light-up a
+          couple of novel & interesting neural circuits. I usually add a book
+          recommendation, three riveting articles and the five most striking
+          tweets I encountered during the week.
         actions:
           - label: Learn More
             url: /showcase
