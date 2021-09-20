@@ -1,5 +1,5 @@
 ---
-title: LAnd and Housing
+title: Land and Housing
 weight: 0
 excerpt: lorem-ipsum
 seo:
