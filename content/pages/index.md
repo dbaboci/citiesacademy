@@ -34,7 +34,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Interested in Cities?
-    subtitle: An optional subtitle of the section
+    subtitle: Here's a couple of other things I'm doing.
     col_number: two
     grid_items:
       - title: Overview
