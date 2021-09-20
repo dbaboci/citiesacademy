@@ -37,7 +37,7 @@ sections:
     subtitle: Here's a couple of other things I'm doing.
     col_number: two
     grid_items:
-      - title: Overview
+      - title: getlayer.xyz
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
