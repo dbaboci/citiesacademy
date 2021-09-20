@@ -2,4 +2,6 @@ root_docs_path: /docs
 sections:
   - complex-systems
   - flexible-urbanism
-  - 
+  - economy
+  - land-housing
+  -mobility
