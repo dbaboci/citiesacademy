@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Odds and Ends
 weight: 0
 excerpt: lorem-ipsum
 seo:
