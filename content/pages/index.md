@@ -10,16 +10,6 @@ sections:
       - label: Start Reading
         url: /docs
         style: primary
-  - section_id: text-no-img
-    type: section_content
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: cta
     type: section_cta
     title: Intersted in a curated cohort-based cities course?
