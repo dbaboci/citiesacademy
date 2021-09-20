@@ -54,7 +54,7 @@ sections:
             style: link
 seo:
   title: cities.academy
-  description: The preview of the Libris theme
+  description: 'A living syllabus on cities. '
   extra:
     - name: 'og:type'
       value: website
