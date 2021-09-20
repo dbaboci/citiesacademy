@@ -57,7 +57,7 @@ sections:
           tweets I encountered during the week.
         actions:
           - label: Subscribe
-            url: 'https://thinkthinkthink.substack.com/'
+            url: 'https://thinkthinkthink.substack.com/subscribe'
             style: link
 seo:
   title: Stackbit Libris Theme
