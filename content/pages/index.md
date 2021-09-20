@@ -41,6 +41,9 @@ sections:
         content: >
           [Layer](https://getlayer.xyz) is an urban orchestration platform that
           enables you to plan, design and manage better urban environments. We
+          do not expect scientific rationalism to solve cities anytime soon. But
+          we can try to improve urban environments by putting state-of-the-art
+          tools in the hands of mayors and public officials around the world. We
           aspire to be the software infrastructure that will run the cities of
           tomorrow.
         actions:
