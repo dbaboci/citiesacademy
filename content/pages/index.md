@@ -37,7 +37,7 @@ sections:
           tomorrow.
         actions:
           - label: Learn More
-            url: 'https://geylayer.xyz'
+            url: 'https://getlayer.xyz'
             style: link
       - title: thinkthinkthink
         content: >
