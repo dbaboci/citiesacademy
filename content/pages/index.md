@@ -9,6 +9,7 @@ sections:
       - label: Start Reading
         url: /docs
         style: primary
+    image: /images/brussels_nasa.jpg
   - section_id: cta
     type: section_cta
     title: Intersted in a curated cohort-based cities course?
