@@ -12,7 +12,7 @@ sections:
     image: /images/brussels_nasa.jpg
   - section_id: cta
     type: section_cta
-    title: Intersted in a cohort-based cities course?
+    title: Interested in a cohort-based cities course?
     subtitle: >-
       Subscribe to receive major site updates and other city content
       notifications.
